@@ -1,0 +1,65 @@
+    1  ls
+    2  pw
+    3  pwd
+    4  ls -l
+    5  cd ..
+    6  cd
+    7  ls
+    8  ls
+    9  cd ~
+   10  cd /
+   11  ls
+   12  cd
+   13  pwd
+   14  ls
+   15  cd Desktop/
+   16  ls
+   17  cd ..
+   18  git status
+   19  cd 
+   20  git status
+   21  git clone https://github.com/pnrreddy/nagendra.git
+   22  ls
+   23  ls -l
+   24  ls -ltr
+   25  pwd
+   26  cd nagendra/
+   27  ls -ltr
+   28  vi file2 
+   29  cat file2 
+   30  git status
+   31  git add file2 
+   32  git status
+   33  git  commit -m " second commit in file2"
+   34  git  commit -m  " second commit in file2"
+   35  git  commit -m  " second commit in file2 "
+   36  la
+   37  ls
+   38  git status
+   39  git  commit -m  " second commit in file2 "
+   40   git config --global user.email "nagendra.pokanati@gmail.com"
+   41  git  commit -m  " second commit in file2 "
+   42  git config --global user.name "pnrreddy"
+   43  git  commit -m  " second commit in file2 "
+   44  ls
+   45  cat file2 
+   46  git push origin master file2
+   47  git push origin master
+   48  git push origin master
+   49  git checkout tree
+   50  git checkout master 
+   51  git branch -a
+   52  git checkout -b b11 
+   53  git branch -a 
+   54  git checkout master 
+   55  git remote -v
+   56  git lock
+   57  git log
+   58  vi file2 
+   59  git status
+   60  git add -A
+   61  git status
+   62  git history
+   63  history
+   64  history
+   65  history > Commandsgit
